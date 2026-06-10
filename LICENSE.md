@@ -1,4 +1,4 @@
-# 
+# Leve Mastra predefinições. Com controle de versão e integração de API — otimizado para máximo desempenho e eficiência.
 
 
 
